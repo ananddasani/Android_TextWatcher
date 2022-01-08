@@ -44,6 +44,4 @@ submit = findViewById(R.id.submit);
 
 <img src="app_images/Enable_Disable Button.png" width="1000" /><br>
 
-<img src="app_images/Enable_Disable Button App1.png" width="300" /><br>
-
-<img src="app_images/Enable_Disable Button App2.png" width="300" /><br>
+<img src="app_images/Enable_Disable Button App1.png" width="300" /> <img src="app_images/Enable_Disable Button App2.png" width="300" /><br>
